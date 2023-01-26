@@ -1,6 +1,7 @@
-### this Repo is dedicated for my journey in the world of Data visualization automation and the likes of it
 
-### there will be plenty of cases from simple data crawling cleaning to machine learning senarios happening in this repo (hopefully in the future).
+# this Repo is dedicated for my journey in the world of Data visualization automation and the likes of it
+
+## there will be plenty of cases from simple data crawling cleaning to machine learning senarios happening in this repo (hopefully in the future).
 
 # 1. kaggle-titanic 🛥️
 
