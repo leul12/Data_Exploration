@@ -14,3 +14,12 @@ in this use case I will try to cover how to get social media data, index it, cle
 # 3. tweet_visulization 🖼️
 
 this one is a continuation of **2** let's try to do some kind of analysis that is exported from step **2**
+
+# By the end of this tutorial, you’ll be ready to:
+
+* Split and filter text data in preparation for analysis
+* Analyze word frequency
+* Find concordance and collocations using different methods
+* Perform quick sentiment analysis with NLTK’s built-in classifier
+* Define features for custom classification
+* Use and compare classifiers for sentiment analysis with NLTK
