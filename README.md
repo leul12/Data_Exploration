@@ -15,7 +15,7 @@ in this use case I will try to cover how to get social media data, index it, cle
 
 this one is a continuation of **2** let's try to do some kind of analysis that is exported from step **2**
 
-# By the end of this tutorial, you’ll be ready to:
+# By the end of this Advanture, you’ll be ready to:
 
 * Split and filter text data in preparation for analysis
 * Analyze word frequency
